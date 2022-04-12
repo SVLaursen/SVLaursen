@@ -1,6 +1,5 @@
 ## Hi, I'm Simon Laursen 👋
-- 🏢 Currently working as a full-stack developer @Gavdi Labs
-- 🎮 I also do game dev on the side under Homebrew Interactive
+- 🏢 Currently working as a full-stack developer and DevOps addict @Gavdi Labs
 - ⛰️ Always looking for a new challenge
 
 ### Tools & Languages 🧰
