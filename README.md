@@ -15,7 +15,7 @@
 [<img align="left" alt="C#" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][CSharp]
 [<img align="left" alt="Java" width="28px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" />][Java]
 [<img align="left" alt="C++" width="28px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />][CPlusPlus]
-[<img align="left" alt="Golang" width="28px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2699%2FPNG%2F512%2Fgolang_logo_icon_171073.png&f=1&nofb=1" />][Golang]
+<img align="left" alt="Golang" width="28px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2699%2FPNG%2F512%2Fgolang_logo_icon_171073.png&f=1&nofb=1" />
 
 <br/><br/>
 
