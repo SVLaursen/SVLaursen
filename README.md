@@ -1,5 +1,7 @@
 ## Hi, I'm Simon Laursen 👋
-- 🏢 Currently working as a full-stack developer and DevOps addict @Gavdi Labs
+- 🏢 Solution architect and fullstack developer in the SAP eco-system
+- 🔌 Creator of the original MCP plugin for the CAP framework
+- 🗣️ Public speaker
 - ⛰️ Always looking for a new challenge
 
 ### Tools & Languages 🧰
